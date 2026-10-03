@@ -1,0 +1,8 @@
+hey there just checking.
+
+To edit file from terminal, use 'vi' command then press 'i' to insert or update.
+
+To save and exit this file press 'esc' then type ':wq!' 
+
+To simply exit press 'esc' then type ':q!'
+
